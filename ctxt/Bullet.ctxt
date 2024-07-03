@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=windowWidth\ windowHeight
+comment1.target=Bullet(int,\ int)
+comment2.params=
+comment2.target=void\ updatePosition()
+comment3.params=
+comment3.target=boolean\ stillMoving()
+numComments=4

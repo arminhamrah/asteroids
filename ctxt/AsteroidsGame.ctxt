@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AsteroidsGame
+comment1.params=
+comment1.target=void\ init()
+comment10.params=
+comment10.target=void\ makeShip()
+comment2.params=
+comment2.target=void\ makeAsteroids()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=obj
+comment4.target=Asteroid\ checkForCollisions(GVectorPolygon)
+comment5.params=
+comment5.target=void\ shipCollided()
+comment6.params=
+comment6.target=void\ bulletsCollided()
+comment7.params=x
+comment7.target=void\ hitAsteroid(Asteroid)
+comment8.params=e
+comment8.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment9.params=event
+comment9.target=void\ mouseClicked(java.awt.event.MouseEvent)
+numComments=11
